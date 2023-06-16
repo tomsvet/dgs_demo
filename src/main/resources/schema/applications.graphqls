@@ -1,0 +1,3 @@
+input SomeEntity {
+    somProject: String!
+}
